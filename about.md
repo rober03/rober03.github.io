@@ -1,30 +1,24 @@
 ---
 layout: page
-title: About
+title: About & Contact
 ---
 
+## Who is this guy?
+
+I am a young Java developer with some mathematics background. In my current job I work with my teem in order to build real time applications for critical financial process.
+
+## What is this blog about?
+
+Yes, this a copy paste from my [first post]({% post_url 2015-03-28-hello-world! %}):
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Pretends to be the place where I put all my software experiments, maybe a few tutorials and a pinch of random thoughts. I am a Java developer so provably al the stuff will be related to the JDK environment.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Contact
 
-There are currently two themes built on Poole:
+Have questions or suggestions? Feel free to send me a mail to<strong> {{ site.author.email }}</strong>, or [ask me on Twitter]({{ site.author.twitter }}), or simply leave me a message in this blog.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+You can also [fork me on GitHub]({{ site.author.github }}) , or check my [Linkedin profile] ({{ site.author.linkedin }} ).
 
 Thanks for reading!

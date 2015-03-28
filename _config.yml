@@ -10,14 +10,17 @@ relative_permalinks: true
 title:            Roberto Moreno
 tagline:          Software Developer
 description:      Learning & playing in the JDK environment.
-url:              http://robertomoreno.github.io
 baseurl:          /
+url:			  http://robertomoreno.github.io
 
 author:
   name:           Roberto Moreno
-  url:            https://es.linkedin.com/in/robertomorenoperez
+  linkedin:            https://es.linkedin.com/in/robertomorenoperez
   email:          pmrebor@gmail.com
+  github: 		  https://github.com/robertomoreno
+  twitter:		  https://twitter.com/rorerez
 
+  
 paginate:         5
 
 # Custom vars
