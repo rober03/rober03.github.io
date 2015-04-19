@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World!
+description: My first page
+comments: true
 ---
 
 First of all thanks to everyone who spends a bit of his time reading this blog.

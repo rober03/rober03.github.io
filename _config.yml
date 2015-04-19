@@ -11,14 +11,18 @@ title:            Roberto Moreno
 tagline:          Software Developer
 description:      Learning & playing in the JDK environment.
 baseurl:          /
-url:			  http://robertomoreno.github.io
+url:			  https://robertomoreno.github.io
 
 author:
   name:           Roberto Moreno
-  linkedin:            https://es.linkedin.com/in/robertomorenoperez
+  linkedin:       https://es.linkedin.com/in/robertomorenoperez
   email:          pmrebor@gmail.com
   github: 		  https://github.com/robertomoreno
-  twitter:		  https://twitter.com/rorerez
+  twitter:
+    url:          https://twitter.com/rorerez
+    name:         rorerez
+  disqus:
+    id:           disqus_aFgecu356n
 
   
 paginate:         5
