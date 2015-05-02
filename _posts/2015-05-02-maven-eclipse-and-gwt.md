@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Starting with Maven Eclipse and GWT 
+title: Starting with Maven, Eclipse and GWT 
 description: Maven and gwt starting error workaround through eclipse 
 comments: true
 ---
 
-When you start with GWT one of the first things you may want to do is bind your project with maven. Luckily GWT is very well suited for this task, there is a maven plugin that will help you in many cases.
+When you start with GWT, one of the first things you may want to do is bind your project with maven. Luckily, GWT is very well suited, there is a maven plugin that will help you in many cases.
 
-One of the better utilities this plugin offers you is the gwt archetype: 
+One of the better utilities this plugin offers you is the GWT archetype: 
 
 `mvn archetype:generate -DarchetypeGroupId=org.codehaus.mojo -DarchetypeArtifactId=gwt-maven-plugin -DarchetypeVersion=2.7.0`
 
-Set your properties and is done. The next step is check if everything is ok so in the dir you have created type `mvn gwt:run`. All seems ok util you go to the browser and Boom! 404 error. index.html (or whatever) not found.
+Set your properties and is done. The next step is check if everything is ok so in the dir you have created, type `mvn gwt:run`. All seems ok until you go to the browser and Boom! 404 error. index.html (or whatever) not found.
 
 There are many workarounds for this issue, the one in witch I am more productive is using Eclipse IDE and running from it. 
 
